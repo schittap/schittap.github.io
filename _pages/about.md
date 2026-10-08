@@ -28,14 +28,12 @@ __Research Assistant @ SUNY New Paltz__ — New Paltz, NY (Remote) | August 2026
 
 • PI: Dr. Lucy Cui, Department of Psychology
 
-• Extracted and standardized graph coordinates with R regex to aggregate 95+ PsychoPy user outputs into
-automated Matplotlib heat maps
+• Extracted and standardized graph coordinates with R regex to aggregate 95+ PsychoPy user outputs into automated Matplotlib heat maps
 
 • Modified CSV column names and categorized/quantified user-specific responses to compute summary statistics
 
-__Private Tutor (Self-Employed)__ - Remote | April 2025 – Present
+__Private Tutor (Self-Employed)__ — Remote | April 2025 - Present
 
-• Developed 60+ hours of lesson planning and consultation with both students and parents for Advanced Placement
-and high-school level mathematics courses.
+• Developed 60+ hours of lesson planning and consultation with both students and parents for Advanced Placement and high-school level mathematics courses
 
 • Designed nuanced learning strategies for standardized exam preparation and positively standing out in applications
