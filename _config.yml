@@ -31,7 +31,7 @@ author:
   employer         : "UCLA"
   uri              : # URL
   email            : "schittapuram@g.ucla.edu" 
-  resume           : "Siddharth_Chittapuram___Resume.pdf"
+  resume           : "\files\Siddharth_Chittapuram___Resume.pdf"
 
   # Academic websites
   academia         : # URL
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/siddharth-chittapuram/"
+  linkedin         : "siddharth-chittapuram/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
