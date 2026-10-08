@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Born and raised in the Bay Area, now in my final year of undergrad at UCLA.
+Born and raised in the Bay Area, now in my final year of undergrad at UCLA
 
 Education
 ======
