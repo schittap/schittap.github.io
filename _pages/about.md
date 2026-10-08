@@ -15,7 +15,7 @@ Education
 ======
 __University of California, Los Angeles__ — Los Angeles, CA | September 2023 - June 2027 (expected)
 
-B.S. in Mathematics/Economics
+B.S. in Mathematics/Economics (completed June 2026)
 
 B.S. in Statistics and Data Science
 
@@ -26,9 +26,15 @@ Experience
 ======
 __Research Assistant @ SUNY New Paltz__ — New Paltz, NY (Remote) | August 2026 - Present
 
-PI: Dr. Lucy Cui, Department of Psychology
+• PI: Dr. Lucy Cui, Department of Psychology
 
 • Extracted and standardized graph coordinates with R regex to aggregate 95+ PsychoPy user outputs into
 automated Matplotlib heat maps
 
 • Modified CSV column names and categorized/quantified user-specific responses to compute summary statistics
+
+__(Self-Employed, Remote) Private Tutor__ | April 2025 – Present
+• Developed 60+ hours of lesson planning and consultation with both students and parents for Advanced Placement
+and high-school level mathematics courses.
+
+• Designed nuanced learning strategies for standardized exam preparation and positively standing out in applications
