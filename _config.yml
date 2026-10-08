@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Siddharth Chittapuram"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of California, Los Angeles"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "schittapuram@g.ucla.edu" 
 
   # Academic websites
   academia         : # URL
