@@ -9,7 +9,7 @@ redirect_from:
 
 Born and raised in the Bay Area, now in my final year of undergrad at UCLA. Interested in thinking quantitatively about social sciences and healthcare, especially the spatial and financial elements. 
 
-Outside of my academics and career, I enjoy comedy/horror movies, recreational sports, daily puzzles, Nintendo games, and traveling. One of my goals is to step foot into every US state (33/50 so far).
+Outside of my academics and career, I enjoy comedy/horror movies, recreational sports, daily puzzles, Nintendo games, and traveling. One of my goals is to step foot into every US state (33/50 so far, 22 of which were visited during undergrad!).
 
 Education
 ======
