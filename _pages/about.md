@@ -34,6 +34,7 @@ automated Matplotlib heat maps
 • Modified CSV column names and categorized/quantified user-specific responses to compute summary statistics
 
 __(Self-Employed, Remote) Private Tutor__ | April 2025 – Present
+
 • Developed 60+ hours of lesson planning and consultation with both students and parents for Advanced Placement
 and high-school level mathematics courses.
 
