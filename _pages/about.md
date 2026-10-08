@@ -13,18 +13,22 @@ Outside of my academics and career, I enjoy comedy/horror movies, recreational s
 
 Education
 ======
-__University of California, Los Angeles__ — Los Angeles, CA
-September 2023 - June 2027 (expected)
+__University of California, Los Angeles__ — Los Angeles, CA | September 2023 - June 2027 (expected)
+
 B.S. in Mathematics/Economics
+
 B.S. in Statistics and Data Science
+
 Minor in Global Studies
 
 
 Experience
 ======
-__Research Assistant @ SUNY New Paltz__ — New Paltz, NY (Remote)
-August 2026 - Present
+__Research Assistant @ SUNY New Paltz__ — New Paltz, NY (Remote) | August 2026 - Present
+
 PI: Dr. Lucy Cui, Department of Psychology
+
 • Extracted and standardized graph coordinates with R regex to aggregate 95+ PsychoPy user outputs into
 automated Matplotlib heat maps
+
 • Modified CSV column names and categorized/quantified user-specific responses to compute summary statistics
